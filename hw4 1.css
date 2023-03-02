@@ -1,0 +1,71 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/autumn-season-and-mountain-fuji-at-kawaguchiko-lake-japan_335224-96.jpg?w=1380&t=st=1677788536~exp=1677789136~hmac=d99f922f100c98f5d370f70e9cd80987aca27072c24300c2105ae553f8a1901f);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding: 100px;
+    text-align: justify;
+    font-size: 18px;
+}
+img{
+    width: 400px;
+    margin: 10px 50px;
+    border: 10px solid #8a8585;
+}
+.fl{
+    float: left;
+    }
+.ff{
+    float: right;
+   }
+p,h2{
+    background-color: rgb(16, 15, 15, 0.5);
+}
+div{
+    text-shadow: 2px 2px 0 #100f0f;
+    font-size: 20px;
+}
+nav{
+    text-align: center;
+    padding: 10px;
+    }
+ol{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    margin-right: 40px;
+    font-size: 24px;
+    padding-left: 40px;
+}
+.qq1{
+    color: rgba(225, 216, 13, 0.5);
+    background: rgba(2, 49, 68, 0.5);
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 20px;
+
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+}
+a:hover {
+    background-size: 100% 2px;
+}
+li:hover{
+    color: #100f0f;
+}
+h2{
+    padding-left: 45%;
+}
+.qq{
+    width: 200px;
+    height: 100px;
+    border: 0px;
+    padding-left: 45%;
+}
